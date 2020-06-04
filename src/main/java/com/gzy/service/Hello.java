@@ -24,6 +24,7 @@ public class Hello {
         aa.add("2");
         aa.add("3");
         aa.add("4");
+        aa.add("5");
         aa.forEach(System.out::println);
     }
 }
